@@ -1,0 +1,262 @@
+[
+  {
+    "name":"KARTAL OTOKUAFÖR",
+    "address":"Ihlamurdere Cd. İstanbul/Besiktas",
+    "delivery_charge": 5,
+    "image":"https://i.pinimg.com/564x/b4/a1/0b/b4a10b6c5ad8ca28c0357e4121d520b5.jpg",
+
+    "hours":{
+      "Sunday":"10:00 - 20:00",
+      "Monday":"10:00 - 20:00",
+      "Tuesday":"10:00 - 20:00",
+      "Wednesday":"10:00 - 20:00 ",
+      "Thursday":"10:00 - 20:00 ",
+      "Friday":"10:00 - 20:00 ",
+      "Saturday":"10:00 - 20:00 "
+    },
+    "menus": [
+      {
+        "name": "İç-Dış Yıkama",
+        "price": 50.00,
+        "url": "https://img.paratic.com/dosya/2016/02/oto-yikama-dukkani-acarak-para-kazanmak.jpg"
+      },
+      {
+        "name": "Oto Boya Koruma",
+        "price": 800.00,
+        "url": "https://www.ankaraboyakoruma.com/YonetimPaneli/fileman/Uploads/BOYAKORUMA2.jpg"
+      },
+      {
+        "name": "Oto Cam Filmi",
+        "price": 400.00,
+        "url": "https://n11scdn.akamaized.net/a1/450/otomotiv-motosiklet/cam-filmi/oto-arac-bina-cam-filmi-6-mt-x-50-cm-tum-tonlar-oto-cam-filmi__0884044370823914.jpg"
+      },
+      {
+        "name": "Oto Koltuk Döşeme",
+        "price": 1200.00,
+        "url": "https://www.googlereklamcim.com/wp-content/uploads/2020/10/cancan-oto-doseme.jpg"
+      },
+      {
+        "name": "Oto Kaporta Boya",
+        "price": 900.00,
+        "url": "https://www.atolye4otomotiv.com/dosyalar/fg6710.jpg"
+      },
+      {
+        "name": "Detaylı Oto Kuaför",
+        "price": 1000.00,
+        "url": "https://www.otoshops.com/cms/uploads/18/20190130103529/HaberOrtadetayli-arac-bakimi.jpg"
+      },
+      {
+        "name": "Oto Ses Sistemi(JBL)",
+        "price": 20000.0,
+        "url": "https://n11scdn.akamaized.net/a1/450/otomotiv-motosiklet/subwoofer/jbl-cs1214-box-30-cm-1000-watt-kabinli-oto-subwoofer__0741857980108009.jpg"
+      },
+      {
+        "name": "Oto Klima Temizliği",
+        "price": 250.0,
+        "url": "https://www.dnmk.co/1_storage/thumbs-1-adet-Araba-Y%C4%B1kama-Mikrofiber-Araba-Temizleme-F%C4%B1r%C3%A7as%C4%B1-I%C3%A7in-klima-Temizleyici-Bilgisayar-Temiz-Ara%C3%A7lar%C4%B1-G%C3%BCne%C5%9Flikler-Silgi-Araba-Bak%C4%B1m%C4%B1-detayland%C4%B1rma_25174.jpeg"
+      },
+      {
+        "name": "Araç Kaplama",
+        "price": 8000.0,
+        "url": "https://rehber326.com/uploads/firmaresim/2020/01/joker-arac-kaplama-hatay_5.jpg"
+      },
+      {
+        "name": "Motor Temizliği",
+        "price": 250.0,
+        "url": "https://motordestek.com/wp-content/uploads/2020/09/Araba-Motoru-Nas%C4%B1l-Temizlenir.jpg"
+      }
+    ]
+  },
+  {
+    "name":"BEŞİKTAŞ OTOKUAFÖR",
+    "address":"Türkali Mh. İstanbul/Beşiktaş",
+    "delivery_charge": 4,
+    "image":"https://www.logodesign.net/logo/red-racing-car-against-checkered-flag-2354ld.png?size=2&industry=BE%C5%9E%C4%B0KTA%C5%9E+OTOKUAF%C3%96R",
+
+    "hours":{
+      "Sunday":"09:00 - 21:00 ",
+      "Monday":"09:00 - 21:00",
+      "Tuesday":"09:00 - 21:00",
+      "Wednesday":"09:00 - 21:00",
+      "Thursday":"09:00 - 21:00",
+      "Friday":"09:00 - 21:00",
+      "Saturday":"09:00 - 21:00"
+    },
+    "menus": [
+      {
+        "name": "İç-Dış Yıkama",
+        "price": 65.0,
+        "url": "https://i0.wp.com/otonomhaber.com/wp-content/uploads/2020/04/Ara%C3%A7-Y%C4%B1kama-%C4%B0stasyonlar%C4%B1na-G%C3%BCn-S%C4%B1n%C4%B1r%C4%B1-Geldi.jpg?fit=1424%2C800&ssl=1"
+      },
+      {
+        "name": "Detaylı Araç Temizliği",
+        "price": 1000.0,
+        "url": "https://www.otoshops.com/cms/uploads/18/20190130103529/HaberOrtadetayli-arac-bakimi.jpg"
+      },
+      {
+        "name": "Motor Temizliği",
+        "price": 300.0,
+        "url": "https://lh3.googleusercontent.com/proxy/tpyN1qdR8eZ4YYSjr59e8DCNJBelfZpvlTdY1_HYfH2lFDZ7f0CFGPHavQb-JcFqHP2T7B09WYNKvn_lrt2D-fsTR8Yz6bvULAGP1gqmAeapTFEqlggTkdfS83DNXdmqYyhBlvsw8t_BRQ"
+      },
+      {
+        "name": "Klima Temizliği",
+        "price": 200.0,
+        "url": "https://www.arabaincele.net/images/haberler/2019/09/polen-filtresi-nedir-ne-ise-yarar-tikanirsa-ne-olur_e06df.jpg"
+      },
+      {
+        "name": "Oto Koltuk Döşeme",
+        "price": 5000.0,
+        "url": "https://www.saraclar.com/wp-content/uploads/2017/11/oto-koltuk-d%C3%B6%C5%9Feme-konya.jpg"
+      },
+      {
+        "name": "Oto Eğlence Sistemi",
+        "price": 7000.0,
+        "url": "https://ae01.alicdn.com/kf/H07c97ae0e7794c7c99b76b755095c58eh/11-6-in-ba-dayama-monit-r-Mercedes-Benz-S-s-n-f-i-in-W222.jpg_Q90.jpg_.webp"
+      },
+      {
+        "name": "Oto Ses Sistemi(BOSE)",
+        "price": 25000.0,
+        "url": "https://st2.myideasoft.com/idea/de/06/myassets/products/360/bose-hoparlor-sticker-resim-1.jpg?revision=1540998154"
+      },
+      {
+        "name": "Araç Kaplama",
+        "price": 10000.0,
+        "url": "https://www.ankaraboyakoruma.com/YonetimPaneli/fileman/Uploads/ARAC%20KAPALAMA.jpg"
+      },
+      {
+        "name": "Araç Kaput Koruma",
+        "price": 1500.0,
+        "url": "https://www.otogocuk.net/uploads/hizmetler/kaput-filmi.jpg"
+      },
+      {
+        "name": "Oto Cam Filmi",
+        "price": 850.0,
+        "url": "https://lh3.googleusercontent.com/proxy/UAm445R4CXEvQqKIjXY355QSq634CiolPVtqo6S1JwafZWc2wrxQRmOzUwHqZJDlvH9WAnOxJI4Hx0YsAKAIou5WswGL3aaIsV-UwnNn"
+      },
+      {
+        "name": "Oto Kaporta Boya",
+        "price": 1250.0,
+        "url": "https://lh3.googleusercontent.com/proxy/fmo8sqDKju-8vPV8u_S8lYGXe13I7izrLxggH69aWNi4S_7Gj3KyyYbBQoSQygQCo3z63oWyDdPp52KerdSJHFaQaRs703cF"
+      }
+    ]
+  },
+  {
+    "name":"YUSUF CARCARE",
+    "address":"Başak Mahallesi İstanbul/Başakşehir",
+    "delivery_charge": 5,
+    "image":"https://i.pinimg.com/564x/ae/36/d6/ae36d685e5f5f389b0942c01989902ed.jpg",
+    "hours":{
+      "Sunday":"09:00 - 21:00 ",
+      "Monday":"09:00 - 21:00",
+      "Tuesday":"09:00 - 21:00",
+      "Wednesday":"09:00 - 21:00",
+      "Thursday":"09:00 - 21:00",
+      "Friday":"09:00 - 21:00",
+      "Saturday":"09:00 - 21:00"
+    },
+    "menus": [
+      {
+        "name": "İç-Dış Yıkama",
+        "price": 65.0,
+        "url": "https://i0.wp.com/otonomhaber.com/wp-content/uploads/2020/04/Ara%C3%A7-Y%C4%B1kama-%C4%B0stasyonlar%C4%B1na-G%C3%BCn-S%C4%B1n%C4%B1r%C4%B1-Geldi.jpg?fit=1424%2C800&ssl=1"
+      },
+      {
+        "name": "Detaylı Araç Temizliği",
+        "price": 1000.0,
+        "url": "https://www.otoshops.com/cms/uploads/18/20190130103529/HaberOrtadetayli-arac-bakimi.jpg"
+      },
+      {
+        "name": "Motor Temizliği",
+        "price": 300.0,
+        "url": "https://lh3.googleusercontent.com/proxy/tpyN1qdR8eZ4YYSjr59e8DCNJBelfZpvlTdY1_HYfH2lFDZ7f0CFGPHavQb-JcFqHP2T7B09WYNKvn_lrt2D-fsTR8Yz6bvULAGP1gqmAeapTFEqlggTkdfS83DNXdmqYyhBlvsw8t_BRQ"
+      },
+      {
+        "name": "Klima Temizliği",
+        "price": 200.0,
+        "url": "https://www.arabaincele.net/images/haberler/2019/09/polen-filtresi-nedir-ne-ise-yarar-tikanirsa-ne-olur_e06df.jpg"
+      },
+      {
+        "name": "Oto Koltuk Döşeme",
+        "price": 5000.0,
+        "url": "https://www.saraclar.com/wp-content/uploads/2017/11/oto-koltuk-d%C3%B6%C5%9Feme-konya.jpg"
+      },
+      {
+        "name": "Oto Eğlence Sistemi",
+        "price": 7000.0,
+        "url": "https://ae01.alicdn.com/kf/H07c97ae0e7794c7c99b76b755095c58eh/11-6-in-ba-dayama-monit-r-Mercedes-Benz-S-s-n-f-i-in-W222.jpg_Q90.jpg_.webp"
+      },
+      {
+        "name": "Oto Ses Sistemi(BOSE)",
+        "price": 25000.0,
+        "url": "https://st2.myideasoft.com/idea/de/06/myassets/products/360/bose-hoparlor-sticker-resim-1.jpg?revision=1540998154"
+      },
+      {
+        "name": "Araç Kaplama",
+        "price": 10000.0,
+        "url": "https://www.ankaraboyakoruma.com/YonetimPaneli/fileman/Uploads/ARAC%20KAPALAMA.jpg"
+      },
+      {
+        "name": "Araç Kaput Koruma",
+        "price": 1500.0,
+        "url": "https://www.otogocuk.net/uploads/hizmetler/kaput-filmi.jpg"
+      },
+      {
+        "name": "Oto Cam Filmi",
+        "price": 850.0,
+        "url": "https://lh3.googleusercontent.com/proxy/UAm445R4CXEvQqKIjXY355QSq634CiolPVtqo6S1JwafZWc2wrxQRmOzUwHqZJDlvH9WAnOxJI4Hx0YsAKAIou5WswGL3aaIsV-UwnNn"
+      },
+      {
+        "name": "Oto Kaporta Boya",
+        "price": 1250.0,
+        "url": "https://lh3.googleusercontent.com/proxy/fmo8sqDKju-8vPV8u_S8lYGXe13I7izrLxggH69aWNi4S_7Gj3KyyYbBQoSQygQCo3z63oWyDdPp52KerdSJHFaQaRs703cF"
+      }
+    ]
+  },
+  {
+    "name":"FIRAT CARWASH",
+    "address":"Maslak Mahallesi İstanbul/Sarıyer",
+    "delivery_charge": 6,
+    "image": "https://image.winudf.com/v2/image1/Y29tLnRodW1zb2Z0LmNhci53YXNoLmF1dG8uY2FyLndhc2guc2VydmljZV9zY3JlZW5fMF8xNTU1Mzk0MTg1XzAwMw/screen-0.jpg?fakeurl=1&type=.jpg",
+    "hours":{
+      "Sunday":"11:00 - 23:00",
+      "Monday":"11:00 - 23:00",
+      "Tuesday":"11:00 - 23:00",
+      "Wednesday":"11:00 - 23:00",
+      "Thursday":"11:00 - 23:00",
+      "Friday":"11:00 - 23:00",
+      "Saturday":"11:00 - 23:00"
+    },
+    "menus": [
+      {
+        "name": "CHICKEN FINGER SANDWICH",
+        "price": 4.00,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70461/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "FINGERZ BOXED LUNCH",
+        "price": 3.25,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70463/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "HOUSE ZALAD BOXED",
+        "price": 5.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70465/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COBB ZALAD BOXED",
+        "price": 3.99,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70468/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "COOKIE AND BROWNIE ",
+        "price": 8.09,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70543/image?density=3&height=300&width=420"
+      },
+      {
+        "name": "BROWNIE PLATTER",
+        "price": 6.49,
+        "url": "https://api.thelevelup.com/v15/order_ahead/menu_image_stores/70540/image?density=3&height=300&width=420"
+      }
+    ]
+  }
+]
